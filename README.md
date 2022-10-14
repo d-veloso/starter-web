@@ -19,3 +19,7 @@ This the deployment section.
 ## How To Contribute
 
 This is the section to explain how to contribute.
+
+### Copyright
+
+2022
